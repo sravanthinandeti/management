@@ -12,6 +12,6 @@ unorder list
 -python1
  -python2
     -python 3
- -djago   
+ -djago 
 --------------------------
 
