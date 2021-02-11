@@ -18,6 +18,6 @@ unorder list
 
 --------------------------------------------------
 table creation
-Name[RollNo]college
------- | -------- | ------
+Name|RollNo|college
+------|-------- |------
 Vrsec|1|vr
